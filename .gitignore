@@ -60,3 +60,6 @@ ssl/ssl.key
 env
 src
 jupyterhub.sqlite
+
+# emacs
+*~
